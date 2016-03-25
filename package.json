@@ -1,0 +1,19 @@
+{
+  "name": "jfixtable",
+  "version": "1.0.0",
+  "description": "a jquery plugin, 固定头部表格插件",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "固定头部的表格插件"
+  ],
+  "author": "mcdyzg",
+  "license": "ISC"
+}
